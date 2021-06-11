@@ -1,6 +1,6 @@
 # CodingGarden-VueJSVueXFirebase-RedditCloneFull-20180608
 
-> 🧩 Coding Garden Build a Full Stack Reddit Clone with - Firebase Firestore 🔥, Vue.js/Vuexfire and Bulma (Jun 8, 2018)
+> 🧩 Coding Garden - Build a Full Stack Reddit Clone with - Firebase Firestore 🔥, Vue.js/Vuexfire and Bulma (Jun 8, 2018)
 
 > Link: https://www.youtube.com/watch?v=UjX5ZE359ck&ab_channel=CodingGarden
 
